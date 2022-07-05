@@ -1,3 +1,3 @@
 # Responsive-Landing-Page
 Zuri Assignment
-https://github.com/TolueneM
+https://toluenem.github.io/responsive%20landing%20page/
